@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="simulator.png" alt="LogicForge Simulator Banner" width="850" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 20px;"/>
+  <img src="img/simulator.png" alt="LogicForge Simulator Banner" width="850" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-bottom: 20px;"/>
   
   <h1>⚡ LogicForge — Digital Adder Visual Simulator</h1>
   <p><em>A cinematic, interactive logic engine bridging classical hardware and quantum concepts.</em></p>
